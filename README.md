@@ -1,3 +1,13 @@
+# DeltaLearn
+
+### Demo:
+
+
+
+https://user-images.githubusercontent.com/88381529/230966310-3fb4abf5-6679-419e-9c9d-923c04ec018c.mp4
+
+
+
 ### Problem Statement:
 Many learners struggle to identify what they need to learn when starting a new topic. This can be overwhelming, and they may waste time studying unnecessary information or miss critical concepts.
 
